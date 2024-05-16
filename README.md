@@ -105,7 +105,7 @@ Born in 1998 in Sydney, Australia. I am passionate about software design and arc
         <code><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="40" height="40"/></code>  
     </a>
     <a href="https://www.npmjs.com/" target="_blank"> 
-        <code><img src="    https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="40" height="40"/></code>  
+        <code><img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="40" height="40"/></code>  
     </a>
     <a href="https://nestjs.com/" target="_blank"> 
         <code><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="nest" width="40" height="40"/></code>  
