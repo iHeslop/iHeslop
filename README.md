@@ -10,7 +10,7 @@ I endeavour to utilize creative problem solving and design skills to create mean
   More stuff about me
 </summary>
 
-## Quick overview
+## Quick Overview
 
 <img align="right"  height="250px" width="250px" src="https://goodfuncorp.com/wp-content/uploads/2023/10/feuertop.gif" />
 
