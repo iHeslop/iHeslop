@@ -132,6 +132,7 @@ Born in 1998 in Sydney, Australia. I am passionate about software design and arc
 
 ## Key Projects:
 
+- **Sky Warrior**: [Source Code](https://github.com/iHeslop/java-platformer)
 - **Solescape**: [Source Code](https://github.com/iHeslop/Solescape) | [Live Site](https://solescape.onrender.com/)
 - **Java CLI Minesweeper**: [Source Code](https://github.com/iHeslop/java-minesweeper)
 - **Google Books SE**: [Source Code](https://github.com/iHeslop/search-engine) | [Live Site](https://google-books-se.onrender.com/)
@@ -149,6 +150,12 @@ Born in 1998 in Sydney, Australia. I am passionate about software design and arc
     </a>
     <a href="https://nextjs.org/" target="_blank"> 
         <code><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="next" width="40" height="40"/></code>  
+    </a>
+     <a href="https://www.python.org/" target="_blank"> 
+        <code><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="next" width="40" height="40"/></code>  
+    </a>
+    <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> 
+        <code><img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="next" width="40" height="40"/></code>  
     </a>
 </p>
 
