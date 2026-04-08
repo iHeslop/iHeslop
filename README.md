@@ -1,8 +1,6 @@
-## Hi there, I'm Isaac 👋
+## Morning sunshine, 👋
 
 I'm a software engineer from Australia, with a background in architecture.\
-I endeavour to utilize creative problem solving and design skills to create meaningful and impactful designs.
-
 [isaacheslop.com](https://www.isaacheslop.com/)
 
 <details>
